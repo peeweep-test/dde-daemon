@@ -1,3 +1,10 @@
+dde-daemon (6.8.0) unstable; urgency=medium
+
+  * fix(ci): pass App secrets to release workflow
+  * chore: Sync by
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 14:55:36 +0800
+
 dde-daemon (6.1.111) unstable; urgency=medium
 
   * fix: 唤醒后保持节能模式下用户设置的亮度值
